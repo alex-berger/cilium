@@ -107,7 +107,12 @@ Users (Alphabetically)
       D: Google is using Cilium in Anthos and Google Kubernetes Engine (GKE) as Dataplane V2
       U: Networking, network policy, and network visibility
       L: https://cloud.google.com/blog/products/containers-kubernetes/bringing-ebpf-and-cilium-to-google-kubernetes-engine
-     
+
+    * N: Nexxiot AG
+      D: Nexxiot is using Cilium as CNI for all production EKS (k8s) clusters
+      U: ENI networking, L3/L4 network policies, kube-proxy replacement
+      L: https://nexxiot.com
+
     * N: Palantir Technologies Inc.
       D: Palantir is using Cilium as their main CNI plugin in AWS (self hosted k8s).
       U: ENI networking, L3/L4 policies, FQDN based policy, FQDN filtering
